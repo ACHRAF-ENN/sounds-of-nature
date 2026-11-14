@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/home/achraf/cpp/machineLearning/sounds-of-nature/build",
+  "command": "/usr/bin/c++  -I/home/achraf/cpp/machineLearning/sounds-of-nature -I/home/achraf/cpp/machineLearning/sounds-of-nature/third_party -isystem /usr/include/python3.14 -std=gnu++17 -o CMakeFiles/ForestAudioClustering.dir/main.cpp.o -c /home/achraf/cpp/machineLearning/sounds-of-nature/main.cpp",
+  "file": "/home/achraf/cpp/machineLearning/sounds-of-nature/main.cpp",
+  "output": "CMakeFiles/ForestAudioClustering.dir/main.cpp.o"
+},
+{
+  "directory": "/home/achraf/cpp/machineLearning/sounds-of-nature/build",
+  "command": "/usr/bin/c++  -I/home/achraf/cpp/machineLearning/sounds-of-nature -I/home/achraf/cpp/machineLearning/sounds-of-nature/third_party -isystem /usr/include/python3.14 -std=gnu++17 -o CMakeFiles/ForestAudioClustering.dir/AudioIO/wav_parser.cpp.o -c /home/achraf/cpp/machineLearning/sounds-of-nature/AudioIO/wav_parser.cpp",
+  "file": "/home/achraf/cpp/machineLearning/sounds-of-nature/AudioIO/wav_parser.cpp",
+  "output": "CMakeFiles/ForestAudioClustering.dir/AudioIO/wav_parser.cpp.o"
+},
+{
+  "directory": "/home/achraf/cpp/machineLearning/sounds-of-nature/build",
+  "command": "/usr/bin/c++  -I/home/achraf/cpp/machineLearning/sounds-of-nature -I/home/achraf/cpp/machineLearning/sounds-of-nature/third_party -isystem /usr/include/python3.14 -std=gnu++17 -o CMakeFiles/ForestAudioClustering.dir/AudioIO/csv_io.cpp.o -c /home/achraf/cpp/machineLearning/sounds-of-nature/AudioIO/csv_io.cpp",
+  "file": "/home/achraf/cpp/machineLearning/sounds-of-nature/AudioIO/csv_io.cpp",
+  "output": "CMakeFiles/ForestAudioClustering.dir/AudioIO/csv_io.cpp.o"
+},
+{
+  "directory": "/home/achraf/cpp/machineLearning/sounds-of-nature/build",
+  "command": "/usr/bin/c++  -I/home/achraf/cpp/machineLearning/sounds-of-nature -I/home/achraf/cpp/machineLearning/sounds-of-nature/third_party -isystem /usr/include/python3.14 -std=gnu++17 -o CMakeFiles/ForestAudioClustering.dir/DSP/dsp.cpp.o -c /home/achraf/cpp/machineLearning/sounds-of-nature/DSP/dsp.cpp",
+  "file": "/home/achraf/cpp/machineLearning/sounds-of-nature/DSP/dsp.cpp",
+  "output": "CMakeFiles/ForestAudioClustering.dir/DSP/dsp.cpp.o"
+},
+{
+  "directory": "/home/achraf/cpp/machineLearning/sounds-of-nature/build",
+  "command": "/usr/bin/c++  -I/home/achraf/cpp/machineLearning/sounds-of-nature -I/home/achraf/cpp/machineLearning/sounds-of-nature/third_party -isystem /usr/include/python3.14 -std=gnu++17 -o CMakeFiles/ForestAudioClustering.dir/Features/mfcc.cpp.o -c /home/achraf/cpp/machineLearning/sounds-of-nature/Features/mfcc.cpp",
+  "file": "/home/achraf/cpp/machineLearning/sounds-of-nature/Features/mfcc.cpp",
+  "output": "CMakeFiles/ForestAudioClustering.dir/Features/mfcc.cpp.o"
+},
+{
+  "directory": "/home/achraf/cpp/machineLearning/sounds-of-nature/build",
+  "command": "/usr/bin/c++  -I/home/achraf/cpp/machineLearning/sounds-of-nature -I/home/achraf/cpp/machineLearning/sounds-of-nature/third_party -isystem /usr/include/python3.14 -std=gnu++17 -o CMakeFiles/ForestAudioClustering.dir/Clustering/Kmeans/kmeans.cpp.o -c /home/achraf/cpp/machineLearning/sounds-of-nature/Clustering/Kmeans/kmeans.cpp",
+  "file": "/home/achraf/cpp/machineLearning/sounds-of-nature/Clustering/Kmeans/kmeans.cpp",
+  "output": "CMakeFiles/ForestAudioClustering.dir/Clustering/Kmeans/kmeans.cpp.o"
+},
+{
+  "directory": "/home/achraf/cpp/machineLearning/sounds-of-nature/build",
+  "command": "/usr/bin/c++  -I/home/achraf/cpp/machineLearning/sounds-of-nature -I/home/achraf/cpp/machineLearning/sounds-of-nature/third_party -isystem /usr/include/python3.14 -std=gnu++17 -o CMakeFiles/ForestAudioClustering.dir/Clustering/Utilities/utility.cpp.o -c /home/achraf/cpp/machineLearning/sounds-of-nature/Clustering/Utilities/utility.cpp",
+  "file": "/home/achraf/cpp/machineLearning/sounds-of-nature/Clustering/Utilities/utility.cpp",
+  "output": "CMakeFiles/ForestAudioClustering.dir/Clustering/Utilities/utility.cpp.o"
+},
+{
+  "directory": "/home/achraf/cpp/machineLearning/sounds-of-nature/build",
+  "command": "/usr/bin/c++  -I/home/achraf/cpp/machineLearning/sounds-of-nature -I/home/achraf/cpp/machineLearning/sounds-of-nature/third_party -isystem /usr/include/python3.14 -std=gnu++17 -o CMakeFiles/ForestAudioClustering.dir/Visualization/plotter.cpp.o -c /home/achraf/cpp/machineLearning/sounds-of-nature/Visualization/plotter.cpp",
+  "file": "/home/achraf/cpp/machineLearning/sounds-of-nature/Visualization/plotter.cpp",
+  "output": "CMakeFiles/ForestAudioClustering.dir/Visualization/plotter.cpp.o"
+}
+]

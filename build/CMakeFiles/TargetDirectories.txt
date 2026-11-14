@@ -1,0 +1,3 @@
+/home/achraf/cpp/machineLearning/sounds-of-nature/build/CMakeFiles/ForestAudioClustering.dir
+/home/achraf/cpp/machineLearning/sounds-of-nature/build/CMakeFiles/edit_cache.dir
+/home/achraf/cpp/machineLearning/sounds-of-nature/build/CMakeFiles/rebuild_cache.dir
